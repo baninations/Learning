@@ -1,0 +1,7 @@
+package Training
+
+fun main(){
+
+
+
+}
